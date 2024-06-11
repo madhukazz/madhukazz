@@ -39,8 +39,4 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ceb1cf84ef4729e7a2f0414c57c47ac8563ed1c43fd10475a5d706f6b0f76896/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e706d2f6e706d2d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/ceb1cf84ef4729e7a2f0414c57c47ac8563ed1c43fd10475a5d706f6b0f76896/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e706d2f6e706d2d6f726967696e616c2d776f72646d61726b2e737667" height="65" alt="npm logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href=""><img width="20" style="max-width: 100%;"></a>
 </div>
-
-  <a target="_blank" rel="noopener noreferrer nofollow" href="<article class="markdown-body entry-content container-lg f5" itemprop="text"><div align="center" dir="auto">
-
-
 </article>
