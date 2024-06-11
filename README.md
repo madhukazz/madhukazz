@@ -1,5 +1,12 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><div align="center" dir="auto">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhukazz&label=Profile%20views&color=0e75b6&style=flat" alt="madhukazz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhukazz" alt="madhukazz" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/madhukazz" target="blank"><img src="https://img.shields.io/twitter/follow/madhukazz?logo=twitter&style=for-the-badge" alt="madhukazz" /></a> </p>
+
+
 <p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1ff2cf293a7f3c2d5988e64bb78eeb2ace84358fe21e54a3e4e5d3c68c45b35d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7363617231313039266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/1ff2cf293a7f3c2d5988e64bb78eeb2ace84358fe21e54a3e4e5d3c68c45b35d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7363617231313039266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="madhukazz" data-canonical-src="https://komarev.com/ghpvc/?username=madhukazz&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
   
@@ -39,13 +46,4 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ceb1cf84ef4729e7a2f0414c57c47ac8563ed1c43fd10475a5d706f6b0f76896/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e706d2f6e706d2d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/ceb1cf84ef4729e7a2f0414c57c47ac8563ed1c43fd10475a5d706f6b0f76896/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e706d2f6e706d2d6f726967696e616c2d776f72646d61726b2e737667" height="65" alt="npm logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href=""><img width="20" style="max-width: 100%;"></a>
 </div>
-
-<p align="center">
-<a href="https://twitter.com/madhukaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhukazz" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/madhukadilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhukadilshan" height="20" width="20" /></a>
-<a href="https://fb.com/madhukadilshan.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhukadilshan.me" height="20" width="20" /></a>
-<a href="https://instagram.com/madhuka___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhuka___" height="20" width="20" /></a>
-</p>
-
-
 </article>
