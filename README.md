@@ -1,12 +1,4 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><div align="center" dir="auto">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhukazz&label=Profile%20views&color=0e75b6&style=flat" alt="madhukazz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhukazz" alt="madhukazz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/madhukazz" target="blank"><img src="https://img.shields.io/twitter/follow/madhukazz?logo=twitter&style=for-the-badge" alt="madhukazz" /></a> </p>
-
-
 <p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1ff2cf293a7f3c2d5988e64bb78eeb2ace84358fe21e54a3e4e5d3c68c45b35d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7363617231313039266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/1ff2cf293a7f3c2d5988e64bb78eeb2ace84358fe21e54a3e4e5d3c68c45b35d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7363617231313039266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="madhukazz" data-canonical-src="https://komarev.com/ghpvc/?username=madhukazz&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
   
