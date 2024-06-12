@@ -39,6 +39,8 @@
     <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="65" alt="MongoDB">
     </a>
+  </div>
+  <div>
     <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65" alt="React">
     </a>
