@@ -5,14 +5,14 @@
   </a> -->
   
   <!-- GitHub Activity Graph -->
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=madhukazz&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true">
+  <a width="50%" href="https://github-readme-activity-graph.vercel.app/graph?username=madhukazz&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhukazz&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="242" alt="GitHub Activity Graph">
   </a>
   
   <div>
     <!-- Most Used Languages -->
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=madhukazz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhukazz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="140" alt="Languages Graph">
+  <a width="50%" href="https://github-readme-stats.vercel.app/api/top-langs?username=madhukazz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhukazz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="140"     alt="Languages Graph">
   </a>
   
   <!-- GitHub Streak Stats -->
