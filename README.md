@@ -6,7 +6,7 @@
   
   <!-- GitHub Activity Graph -->
   <a href="https://github-readme-activity-graph.vercel.app/graph?username=madhukazz&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhukazz&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="242" alt="GitHub Activity Graph">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhukazz&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="242" alt="GitHub Activity Graph">
   </a>
   
 <!-- Most Used Languages and Streak Stats -->
