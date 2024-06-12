@@ -32,7 +32,7 @@
 <!-- Dynamic Contribution Graph -->
 <h2 align="center">Contribution Graph</h2>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=madhukazz&theme=github" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=madhukazz&theme=github" alt="Contribution Graph" />
 </p>
 
 <!-- Footer -->
