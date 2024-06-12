@@ -1,42 +1,64 @@
-<!-- Profile Title -->
-<h1 align="center">Hello, I'm Madhukazz</h1>
+<div align="center">
+  <!-- GitHub Profile Views -->
+  <a href="https://komarev.com/ghpvc/?username=madhukazz&label=Profile%20views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=madhukazz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  </a>
+  
+  <!-- GitHub Activity Graph -->
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=madhukazz&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhukazz&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="242" alt="GitHub Activity Graph">
+  </a>
+  
+  <!-- Most Used Languages -->
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=madhukazz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhukazz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="140" alt="Languages Graph">
+  </a>
+  
+  <!-- GitHub Streak Stats -->
+  <a href="https://streak-stats.demolab.com?user=madhukazz&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3">
+    <img src="https://streak-stats.demolab.com?user=madhukazz&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="140" alt="Streak Graph">
+  </a>
+</div>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhukazz&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhukazz&theme=dark" alt="GitHub Streak" />
-</p>
-
-<!-- Language Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukazz&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<!-- Contribution Graph -->
-<h2 align="center">Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=madhukazz&theme=github" alt="Contribution Graph" />
-</p>
-
-<!-- Languages and Tools -->
-<h2 align="center">Languages and Tools</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40"/>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhukazz&style=flat-square&color=ff69b4" alt="Profile Views" />
-</p>
+<div align="center">
+  <!-- Icons for Technologies -->
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="JavaScript">
+  </a>
+  
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="65" alt="TypeScript">
+  </a>
+  
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" alt="CSS3">
+  </a>
+  
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" alt="MySQL">
+  </a>
+  
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="65" alt="WordPress">
+  </a>
+  
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="65" alt="MongoDB">
+  </a>
+  
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65" alt="React">
+  </a>
+  
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="65" alt="Material-UI">
+  </a>
+  
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" alt="Node.js">
+  </a>
+  
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" alt="Git">
+  </a>
+</div>
