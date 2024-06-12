@@ -14,7 +14,7 @@
       <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhukazz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="140" alt="Languages Graph">
       <img width="50%" src="https://streak-stats.demolab.com?user=madhukazz&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="140" alt="Streak Graph">
   </div>
-  
+  ---
   <!-- Icons for Technologies -->
   <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="JavaScript">
