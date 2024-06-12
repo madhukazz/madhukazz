@@ -14,7 +14,7 @@
 
 
 <div align="center" dir="auto">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=madhukazz&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhukazz&theme=gruvbox&hide_border=true" />
 </div>
 
 
@@ -36,14 +36,5 @@
   <a target="_blank" rel="noopener noreferrer" href=""><img width="20" style="max-width: 100%;"></a>
 </div>
 
-
-
-
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhukazz&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
 
 </article>
