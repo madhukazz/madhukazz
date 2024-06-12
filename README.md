@@ -21,43 +21,19 @@
   
   <!-- Icons for Technologies -->
   <div>
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="JavaScript">
-    </a>
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="65" alt="TypeScript">
-    </a>
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" alt="CSS3">
-    </a>
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" alt="MySQL">
-    </a>
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="65" alt="WordPress">
-    </a>
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="65" alt="MongoDB">
-    </a>
   </div>
   <div>
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65" alt="React">
-    </a>
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="65" alt="Material-UI">
-    </a>
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" alt="Node.js">
-    </a>
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" alt="Git">
-    </a>
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="65" alt="GitHub">
-    </a>
-    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="65" alt="npm">
-    </a>
   </div>
 </div>
