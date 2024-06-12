@@ -1,8 +1,8 @@
 <div align="center">
   <!-- GitHub Profile Views -->
-  <a href="https://komarev.com/ghpvc/?username=madhukazz&label=Profile%20views&color=0e75b6&style=flat">
+<!--   <a href="https://komarev.com/ghpvc/?username=madhukazz&label=Profile%20views&color=0e75b6&style=flat">
     <img src="https://komarev.com/ghpvc/?username=madhukazz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-  </a>
+  </a> -->
   
   <!-- GitHub Activity Graph -->
   <a href="https://github-readme-activity-graph.vercel.app/graph?username=madhukazz&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true">
