@@ -11,8 +11,8 @@
   
 <!-- Most Used Languages and Streak Stats -->
   <div>
-<!--       <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhukazz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" alt="Languages Graph"> -->
-      <img width="100%" src="https://streak-stats.demolab.com?user=madhukazz&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" alt="Streak Graph">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhukazz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" alt="Languages Graph">
+      <img width="40%" src="https://streak-stats.demolab.com?user=madhukazz&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" alt="Streak Graph">
   </div>
 
   <!-- Icons for Technologies -->
