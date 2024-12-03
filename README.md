@@ -25,7 +25,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" alt="HTML5">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="65" alt="Linux">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="65" alt="Shell Script">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Webflow-Dark.svg" height="65" alt="Webflow">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma-Dark.svg" height="65" alt="Prisma">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Webflow_logo.svg" height="65" alt="Webflow">
+      <img src="https://prismalens.vercel.app/header/logo-dark.svg" height="65" alt="Prisma">
   </div>
 </div>
