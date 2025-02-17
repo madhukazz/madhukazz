@@ -25,7 +25,6 @@
 ---
 
 <!-- Most Used Languages -->
-### 📊 Most Used Languages
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukazz&layout=compact&theme=react" />
 </p>
