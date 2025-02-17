@@ -37,21 +37,13 @@
    </td>
    <td>
     
-<!-- Developer Animation -->
+<!-- Developer Video -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Developer Animation">
-</p>
-
-<!-- OR Embed a YouTube Video -->
-<!-- Uncomment the below code if you want a video instead -->
-<!-- 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=G-EGDH50hGE" target="_blank">
-    <img src="https://img.youtube.com/vi/G-EGDH50hGE/0.jpg" width="300" alt="YouTube Video">
+  <a href="https://www.youtube.com/watch?v=AZh8Tn1Qa6g" target="_blank">
+    <img src="https://img.youtube.com/vi/AZh8Tn1Qa6g/0.jpg" width="300" alt="Best Programmer Motivational Video">
   </a>
 </p>
--->
-    
+
    </td>
   </tr>
 </table>
