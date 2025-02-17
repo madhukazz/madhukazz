@@ -1,7 +1,3 @@
-<table>
-  <tr>
-    <td>
-      
 <!-- Programming Languages -->
 ### 🛠 Programming Languages
 <p align="left">
@@ -33,17 +29,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukazz&layout=compact&theme=react" />
 </p>
-
-   </td>
-   <td>
-    
-<!-- Developer Video -->
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=AZh8Tn1Qa6g" target="_blank">
-    <img src="https://img.youtube.com/vi/AZh8Tn1Qa6g/0.jpg" width="300" alt="Best Programmer Motivational Video">
-  </a>
-</p>
-
-   </td>
-  </tr>
-</table>
