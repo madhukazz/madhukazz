@@ -1,5 +1,25 @@
-<p align="center">
-  <a href="https://github.com/madhukazz">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,react,nextjs,tailwindcss,materialui,html,css,webflow,nodejs,express,mysql,mongodb,prisma,git,github,npm,linux,bash,wordpress&perline=10" />
-  </a>
+<h2 align="center">🚀 Tech Stack</h2>
+
+<!-- Programming Languages -->
+### 🛠 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,php&perline=10" />
+</p>
+
+<!-- Frontend Technologies -->
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,materialui,html,css,webflow&perline=10" />
+</p>
+
+<!-- Backend & Databases -->
+### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,prisma&perline=10" />
+</p>
+
+<!-- Tools & Platforms -->
+### 🛠 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,linux,bash,wordpress&perline=10" />
 </p>
