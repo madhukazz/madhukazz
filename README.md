@@ -13,7 +13,7 @@
 <!-- Backend & Databases -->
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgresql,mongodb,prisma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgresql,mongodb,prisma,typeorm&perline=10" />
 </p>
 
 <!-- Tools & Platforms -->
