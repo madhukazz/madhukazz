@@ -14,7 +14,6 @@
 ### Backend & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgresql,mongodb,prisma&perline=10" />
-  <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" width="48" height="48" alt="TypeORM" />
 </p>
 
 <!-- Tools & Platforms -->
