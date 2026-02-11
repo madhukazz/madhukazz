@@ -19,5 +19,5 @@
 <!-- Tools & Platforms -->
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,linux,bash,wordpress&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,linux,bash&perline=10" />
 </p>
