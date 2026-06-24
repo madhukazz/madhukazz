@@ -1,23 +1,31 @@
-<!-- Programming Languages -->
-### Programming Languages
+## 💻 Tech Stack
+
+### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php" />
 </p>
 
-<!-- Frontend Technologies -->
-### Frontend Development
+### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,materialui,html,css,webflow&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,html,css" />
 </p>
 
-<!-- Backend & Databases -->
-### Backend & Databases
+### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgresql,mongodb,prisma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
-<!-- Tools & Platforms -->
-### Tools & Platforms
+### Databases & ORM
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,linux,bash&perline=10" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" />
+</p>
+
+### DevOps & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,vercel" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,linux,bash,vscode" />
 </p>
