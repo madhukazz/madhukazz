@@ -1,23 +1,19 @@
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,php" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php&perline=10" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,materialui,html,css,webflow&perline=10" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgresql,mongodb,prisma&perline=10" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,linux,bash&perline=10" />
 </p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,vercel" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,linux,bash,vscode" />
 </p>
